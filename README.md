@@ -5,9 +5,9 @@ This is an Android demo application for displaying the latest box office movies 
 
 Completed user stories:
 
- * [x] Required: User can view a list of latest box office movies including title, cast and tomatoes rating
- * [x] Required: User can click on a movie in the list to bring up a details page with additional information such as synopsis
- * [x] Optional: Placeholder image is used for movie posters loaded in from the network
+ * [x] User can view a list of latest box office movies including title, cast and tomatoes rating
+ * [x] User can click on a movie in the list to bring up a details page with additional information such as synopsis
+ * [x] Placeholder image is used for movie posters loaded in from the network
  
 **Notes:**
 
